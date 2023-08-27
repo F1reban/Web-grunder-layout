@@ -1,0 +1,43 @@
+h1 {
+    color: gray;
+}
+
+h2 {
+    color: blue;
+}
+
+body {
+    background-color: pink;
+}
+
+p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+footer {
+    background-color: rgb(5, 240, 248);
+    color: rgb(0, 0, 0);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(119, 128, 0);
+    position: relative;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blueviolet;
+}
+
+section {
+    display: flex;
+    gap: 14px;
+}
+
+article {
+    background-color: rgb(221, 255, 0);
+    padding: 14px;
+}
